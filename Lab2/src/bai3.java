@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class XepLoaiSinhVien {
+public class bai3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
